@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.imghippo.com/i/ZYMiu1723470999.jpg"group-title="Bangla",SOMOY TV
-
+http://ktv.im:8080/live/111222/222111/83781.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",JAMUNA TV
-
+http://ktv.im:8080/live/111222/222111/83800.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",B-TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",DBC NEWS
