@@ -4,105 +4,105 @@ http://ktv.im:8080/live/111222/222111/83781.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",JAMUNA TV
 http://ktv.im:8080/live/111222/222111/83800.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",B-TV
-http://stream.wowzacdn.com/fh3rhr3j3/23998_hhs/btv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",DBC NEWS
-https://somoy.appv.jagobd.com:444/somoy/channeli-8-org.stream/lplaylist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",NEWS 24
-https://utube.buddyxiptv.com/@dailynews24x7daily.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla", INDEPANDENT TV
-https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla", ATN NEWS
-https://utube.buddyxiptv.com/@atnnewsltd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla", CHANNEL 24
-https://utube.buddyxiptv.com/@channel24digital.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",EKHON TV
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",BANGLA VISION
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3137
-https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",DEEPTO TV
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3183
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",DURANTO TV
-http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",BHOISHAKI TV
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3144
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",NTV
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3188
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",SA V
-https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",RTV
-https://utube.buddyxiptv.com/@RtvNews.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",MASSRANGA TV
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",NTV
- https://somoy.appv.jagobd.com:444/somoy/banglatvhd.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",DESH TV
-https://utube.buddyxiptv.com/@livedeshtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",MY TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",EUSHEY TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",MY TV
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",ASIAN TV
-http://103.130.112.222:8085/hls/Gaan-Bangla/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",CHANNEL I
-https://utube.buddyxiptv.com/@channelinews.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",GAZI TV
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3914
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",T-SPORTS
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=9285
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",NTV
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",ANANDO TV
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",BIJOY TV
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3177
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",EKHON TV
-https://utube.buddyxiptv.com/@ekhontv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",NAGORIK TV
-https://somoy.appv.jagobd.com:444/somoy/anandatv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",CHANNEL 9
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3135
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",GREEN TV
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",DURANTO TV
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3189
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",CHANNEL 24
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3171
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",GAAN BANGLA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",ATN MUSIC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",RTV MUSIC
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=6795
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",MOVIE BAGLA
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",AMAR BANGLA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Bangla",AMAR DIGITAL
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Kolkata Bangla",STAR JALSHA HD
- https://port.yuvraj49.in/dd-150724/index.m3u8?id=7799
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",JALSHA MOVIES HD
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=7803
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",ZEE BANGLA HD
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=7791
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",ZEE BANGLA CINEMA
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3969
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",ZEE MOVIES BANGLA
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=7795
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",COLORS BANGLA HD
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=5615
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",COLORS BANGLA CINEMA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",ENTER 10
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=5855
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",SONY AATH
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3161
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",SUN BANGLA
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=5846
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",SUN BANGLA CINEMA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",RUPOSHI BANGLA
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3187
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOKKATA",SANANDA TV
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",DHOOM MUSIC
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3139
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",BANGLA+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="KOLKATA",SANGEET BANGLA
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=789
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",SONY TV HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",SONY KAL
@@ -110,7 +110,7 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=789
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",SONY SAB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",SONY PAL
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=931
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",STAR PLUS HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",STAR BAHART HD
@@ -118,7 +118,7 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=931
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",COLORS HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",COLORS RISTHEY
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=1388
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",ZEE TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",ZEE CINEMA HD
@@ -170,11 +170,11 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=1388
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",JOO MUSIC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",9XM MUSIC
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=1369
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",INDIA MUSIC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",MAASTI MUSIC
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=949
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",ZOOM MUSIC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",YRF MUSIC
@@ -182,7 +182,7 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=949
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",B4U MUSIC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",9X JALWA MUISC
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=756
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",MTV MUSIC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",MTV BEATS
@@ -190,9 +190,9 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=756
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",8XM MUSIC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",SHOW MUSIC
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=5782
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="HINDI",MUSIC INDIA
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=779
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="INFORMATION",CARTOON NETWORK
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="INFORMATION",DISCOVERY KIDS
@@ -200,43 +200,43 @@ https://port.yuvraj49.in/dd-150724/index.m3u8?id=779
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="INFORMATION",SONY YAY
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",STAR SPORTS 1
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=5305
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",STAR SPORTS 2
- https://port.yuvraj49.in/dd-150724/index.m3u8?id=710
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",STAR SPORTS 3
- https://port.yuvraj49.in/dd-150724/index.m3u8?id=858
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",STAR SPORTS 4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",STAR SPORTS 5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",SONY SPORTS TEN 1
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=673
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",SONY SPORTS TEN 2
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=674
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",SONY SPORTS TEN 3
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=675
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",SONY SPORTS TEN 4
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=24069
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",SONY SPORTS TEN 5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",Sport 18
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=3448
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",EURO SPORT
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",PTV SPORTS
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=2343
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",A SPORT
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=11644
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",GEO SUPER SPORTS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",TEN SPORTS CEICKET
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",WILLOW CRICKET
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=747
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",WILLOW EXTRA
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=5676
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS",ASTRO CRICKET
-https://port.yuvraj49.in/dd-150724/index.m3u8?id=5651
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="SPORTS", T SPORTS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="INFORMATION",DISCOVERY HD
